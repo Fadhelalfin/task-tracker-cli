@@ -2,7 +2,7 @@
 
 A simple command-line interface (CLI) application for managing your tasks, built with Go.
 
-**Project URL:** [https://github.com/Fadhelalfin/task-tracker-cli](https://github.com/Fadhelalfin/task-tracker-cli)
+**Project URL:** [https://github.com/Fadhelalfin/task-tracker-cli](https://github.com/Fadhelalfin/task-tracker-cli)](https://roadmap.sh/projects/task-tracker)
 
 ## Features:
 - Add new tasks
